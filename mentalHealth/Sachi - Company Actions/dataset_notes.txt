@@ -1,25 +1,26 @@
 ## Generic Demographics Factors
-0 :  What is your age?
-1 :  What is your gender?
-2 :  What country do you live in?
-3 :  If you live in the United States, which state or territory do you live in?
+1 :  What is your age?
+2 :  What is your gender?
+3 :  What country do you live in?
+4 :  If you live in the United States, which state or territory do you live in?
 50 :  What country do you work in?
 51 :  What US state or territory do you work in?
-101 :  What is your race?
+89 :  What is your race?
 
 ## Company Actions Directly Related to Mental Health
-9 :  Does your employer provide mental health benefits as part of healthcare coverage?
+10 :  Does your employer provide mental health benefits as part of healthcare coverage?
 ---
-16 :  Do you know the options for mental health care your employer provides?
-27 :  Do you know the options for mental health care available under your employer-provided health coverage?
+94 :  Do you know the options for mental health care your employer provides?
+14 :  Do you know the options for mental health care available under your employer-provided health coverage?
 ---
-17 :  Has your employer ever discussed mental health as part of an employee wellness program?
-28 :  Has your employer ever formally discussed mental health (for example, as part of a wellness campaign or other official communication)?
+95 :  Has your employer ever discussed mental health as part of an employee wellness program?
+15 :  Has your employer ever formally discussed mental health (for example, as part of a wellness campaign or other official communication)?
 ---
-18 :  Does your employer provide resources to learn more about mental health issues and how to seek help?
-29 :  Does your employer offer resources to learn more about mental health disorders and options for seeking help?
+96 :  Does your employer provide resources to learn more about mental health issues and how to seek help?
+16 :  Does your employer offer resources to learn more about mental health disorders and options for seeking help?
 ---
 
+->>>>>need to correct question numbers
 ## Physical vs Mental Health
 ---
 76 :  Overall, how much importance does your employer place on physical health?
