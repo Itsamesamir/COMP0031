@@ -1,0 +1,58 @@
+## Generic Demographics Factors
+0 :  What is your age?
+1 :  What is your gender?
+2 :  What country do you live in?
+3 :  If you live in the United States, which state or territory do you live in?
+50 :  What country do you work in?
+51 :  What US state or territory do you work in?
+101 :  What is your race?
+
+## Company Actions Directly Related to Mental Health
+9 :  Does your employer provide mental health benefits as part of healthcare coverage?
+---
+16 :  Do you know the options for mental health care your employer provides?
+27 :  Do you know the options for mental health care available under your employer-provided health coverage?
+---
+17 :  Has your employer ever discussed mental health as part of an employee wellness program?
+28 :  Has your employer ever formally discussed mental health (for example, as part of a wellness campaign or other official communication)?
+---
+18 :  Does your employer provide resources to learn more about mental health issues and how to seek help?
+29 :  Does your employer offer resources to learn more about mental health disorders and options for seeking help?
+---
+
+## Physical vs Mental Health
+---
+76 :  Overall, how much importance does your employer place on physical health?
+88 :  Overall, how much importance did your previous employer place on physical health?
+---
+77 :  Overall, how much importance does your employer place on mental health?
+89 :  Overall, how much importance did your previous employer place on mental health?
+---
+13 :  Do you feel that your employer takes mental health as seriously as physical health?
+64 :  Did you feel that your previous employers took mental health as seriously as physical health?
+---
+12 :  Do you think that discussing a physical health issue with your employer would have negative consequences?
+42 :  Would you be willing to bring up a physical health issue with a potential employer in an interview?
+---
+69 :  Would you feel more comfortable talking to your coworkers about your physical health or your mental health?
+81 :  Would you have felt more comfortable talking to your previous employer about your physical health or your mental health?
+
+
+## Employees' Views on Company's Mental Health Actions
+10 :  Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources provided by your employer?
+11 :  Would you bring up a mental health issue with a potential employer in an interview?
+
+20 :  Do you think that discussing a mental health issue with your employer would have negative consequences?
+---
+21 :  Would you be willing to discuss a mental health issue with your coworkers?
+31 :  Would you feel comfortable discussing a mental health issue with your coworkers?
+---
+22 :  Would you be willing to discuss a mental health issue with your direct supervisor(s)?
+32 :  Would you feel comfortable discussing a mental health issue with your direct supervisor(s)?
+---
+98 :  Briefly describe what you think the industry as a whole and/or employers could do to improve mental health support for employees.
+
+## Generic Info About Company
+4 :  Are you self-employed?
+7 :  How many employees does your company or organization have?
+8 :  Is your employer primarily a tech company/organization?
