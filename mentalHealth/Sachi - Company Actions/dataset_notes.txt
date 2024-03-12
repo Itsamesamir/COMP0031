@@ -40,19 +40,21 @@
 
 
 ## Employees' Views on Company's Mental Health Actions
-10 :  Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources provided by your employer?
-11 :  Would you bring up a mental health issue with a potential employer in an interview?
+11 :  Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources provided by your employer?
 
-20 :  Do you think that discussing a mental health issue with your employer would have negative consequences?
----
-21 :  Would you be willing to discuss a mental health issue with your coworkers?
-31 :  Would you feel comfortable discussing a mental health issue with your coworkers?
----
-22 :  Would you be willing to discuss a mental health issue with your direct supervisor(s)?
-32 :  Would you feel comfortable discussing a mental health issue with your direct supervisor(s)?
----
-98 :  Briefly describe what you think the industry as a whole and/or employers could do to improve mental health support for employees.
+12 :  Would you bring up a mental health issue with a potential employer in an interview?
 
+98 :  Do you think that discussing a mental health issue with your employer would have negative consequences?
+---
+99 :  Would you be willing to discuss a mental health issue with your coworkers?
+18 :  Would you feel comfortable discussing a mental health issue with your coworkers?
+---
+100 :  Would you be willing to discuss a mental health issue with your direct supervisor(s)?
+86 :  Would you feel comfortable discussing a mental health issue with your direct supervisor(s)?
+---
+86 :  Briefly describe what you think the industry as a whole and/or employers could do to improve mental health support for employees.
+
+->>>>>need to correct question numbers
 ## Generic Info About Company
 4 :  Are you self-employed?
 7 :  How many employees does your company or organization have?
